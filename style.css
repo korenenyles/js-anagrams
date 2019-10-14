@@ -1,0 +1,34 @@
+#header {
+  display: flex;
+  text-align: center;
+  background-color: rgb(235, 151, 145);
+  border-radius: 50%;
+  height: 90px;
+  width: 500px;
+  font-family: "Hepta Slab", serif;
+  color: white;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#main {
+  text-align: center;
+  margin: 45px;
+}
+
+#results {
+  text-align: center;
+  margin: 30px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-image: url("images/typewriter.png");
+  background-repeat: no-repeat;
+  background-size: 1280px;
+  background-position: fixed;
+}
